@@ -3016,3 +3016,8 @@
 2024-01-07T00:00:00,_default,_tag_sender_id,1800,_tag_receiver_id,2000,_tag_status,confirmed,_field_amount,7.463891,_field_fee,0.012345
 2024-01-08T00:00:00,_default,_tag_sender_id,1900,_tag_receiver_id,3000,_tag_status,pending,_field_amount,3.546987,_field_fee,0.075311
 2024-01-09T00:00:00,_default,_tag_sender_id,2000,_tag_receiver_id,4000,_tag_status,confirmed,_field_amount,1.347962,_field_fee,0.942864
+2023-12-31T00:00:00,blockchain_transactions,_tag_sender_id,1250,_tag_receiver_id,1222,_tag_status,confirmed,_field_amount,2.6023177518295495,_field_fee,0.03745471259658008
+2024-01-01T00:00:00,_default,_tag_sender_id,1700,_tag_receiver_id,1000,_tag_status,confirmed,_field_amount,4.596327,_field_fee,0.064793
+2024-01-07T00:00:00,_default,_tag_sender_id,1800,_tag_receiver_id,2000,_tag_status,confirmed,_field_amount,7.463891,_field_fee,0.012345
+2024-01-08T00:00:00,_default,_tag_sender_id,1900,_tag_receiver_id,3000,_tag_status,pending,_field_amount,3.546987,_field_fee,0.075311
+2024-01-09T00:00:00,_default,_tag_sender_id,2000,_tag_receiver_id,4000,_tag_status,confirmed,_field_amount,1.347962,_field_fee,0.942864
